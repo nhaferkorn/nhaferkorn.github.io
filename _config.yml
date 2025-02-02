@@ -21,7 +21,7 @@ repository               : "nhaferkorn/nhaferkorn.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg"
   name             : "Nele Haferkorn"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
