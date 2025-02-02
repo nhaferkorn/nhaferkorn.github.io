@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Nijmegen"
   employer         : "Radboud University"
-  uri              :  https://nhaferkorn.github.io/
+  uri              : "https://nhaferkorn.github.io"
   email            : "nele.haferkorn@ru.nl" 
 
   # Academic websites
