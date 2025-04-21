@@ -3,9 +3,7 @@ title: 'Time Scales in Neural Systems'
 date: 2025-04-21
 permalink: /posts/2025/04/timescales/
 tags:
-  - cool posts
-  - category1
-  - category2
+
 ---
 
 How can we best understand the timescales of neural systems?
