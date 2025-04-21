@@ -9,8 +9,7 @@ redirect_from:
 
 I'm currently studying cognitive neuroscience at Radboud University in Nijmegen. I'm generally interested in using different types of neural data - mainly electrophysiology - to better understand neural dynamics. My interests are quite broad, so it's hard to put a label on them.
 
-Prior to my Master's, I have explored the field of computational psychiatry. 
-I worked in Urs Braun’s lab, analyzing fMRI data from patients with schizophrenia.
+Prior to my Master's, I explored the field of computational psychiatry, analyzing fMRI data from patients with schizophrenia.
 
 
 
