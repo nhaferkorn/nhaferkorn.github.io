@@ -8,9 +8,9 @@ Neural processes are spatiotemporal phenomena and the measurements that we perfo
 How fast is synaptic processing? At which timescales do neural network dynamics unfold?
 
 
-<!-- The Idea of a Temporal Code
+The Idea of a Temporal Code
 =====
-Temporal precision matters. It plays a role in neural coherence, spike-timing-dependent plasticity and  -->
+Temporal precision matters. It plays a role in neural coherence, spike-timing-dependent plasticity and 
 
 Why Brain Rhythms alone are not enough
 ---
@@ -26,8 +26,4 @@ Specifically, the neural signal is correlated with a time-lagged version of itse
 
 
 How can we measure intrinsic neural timescales and how do they change with task demands?
-<!-- ======
-What is the functional role of intrinsic neural time scales?
-Serves temporal integration and segregation of input.
-How can we relate them back to functionally relevant behavioral output? -->
 
