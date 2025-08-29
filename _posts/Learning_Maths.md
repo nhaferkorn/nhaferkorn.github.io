@@ -1,7 +1,7 @@
 ---
 title: 'A new way of thinking'
 date: 2025-07-07
-permalink: #/posts/2012/08/blog-post-1/
+permalink: /posts/2025/08/learningmaths/
 tags:
 ---
 
