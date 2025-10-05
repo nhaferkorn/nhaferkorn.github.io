@@ -4,9 +4,6 @@ date: 2025-08-29
 permalink: /posts/2025/08/Learning_Maths/
 tags:
 ---
-
-Learning maths - A new way of thinking
-=====
 I am sitting in a lecture hall, surrounded by people, most of whom I suspect have received university-level training in mathematics.
 
 Full disclosure: I have not. With my background in Psychology and Cognitive Neuroscience, I have always been a "user" of mathematics. I received training in Statistics and learned which formula to apply to solve a specific problem.
