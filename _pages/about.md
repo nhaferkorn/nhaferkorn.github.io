@@ -15,8 +15,7 @@ I value interdisciplinary projects and try to combine my interests in brain imag
 
 I am very passionate about meta-scientific issues. These include supporting the open science movement, learning more about the philosophy of science, and making sustainable choices in my daily (research) life.
 
-Outside of science, I love hiking and spending time in nature.
-I am also a big theatre nerd and love watching and reading plays.
+Outside of science, I love spending time in nature. I am currently hiking the Via Alpina, which follows the arc of the Alps from Trieste to Monaco.
 
 
 
